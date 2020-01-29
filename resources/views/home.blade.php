@@ -49,7 +49,7 @@
             <div class="row">
               <div class="col-md-12 ml-auto mr-auto">
                 <h2 class="title">Message From Our Mentor</h2>
-                <div class="col-md-3 ml-auto mr-auto">
+                <div class="col-md-3 col-xs-6 ml-auto mr-auto">
                   <img src="assets/img/pd.jpeg" alt="Sample Activity" class="img-raised rounded-circle img-fluid">
                 </div></br>
                 <h5 class="description blockquote undefined text-justify">Each One Save One is an organization which has always made me realize how important it is for each one of us to do our part as an individual for the betterment of the society. Being a part of a society it gives each and everyone of us an opportunity to make it sustainable. We ought to provide an impact to the society by giving back the best we can. Every step we have taken so far has made us learn so much about the limitless opportunities. Each One Save One has provided the team and me a fantastic chance to keep on learning and growing each and everyday. </br></br>
