@@ -70,7 +70,7 @@
             <div class="col-md-4">
               <div class="team-player">
                 <div class="card card-plain">
-                  <div class="col-md-6 ml-auto mr-auto">
+                  <div class="col-md-6 col-xs-8 ml-auto mr-auto">
                     <img src="assets/img/team/suchit.jpg" alt="Thumbnail Image"
                       class="img-raised rounded-circle img-fluid">
                   </div>
@@ -91,7 +91,7 @@
             <div class="col-md-4">
               <div class="team-player">
                 <div class="card card-plain">
-                  <div class="col-md-6 ml-auto mr-auto">
+                  <div class="col-md-6 col-xs-8 ml-auto mr-auto">
                     <img src="assets/img/team/praneet.jpg" alt="Thumbnail Image"
                       class="img-raised rounded-circle img-fluid">
                   </div>
@@ -105,7 +105,7 @@
             <div class="col-md-4">
               <div class="team-player">
                 <div class="card card-plain">
-                  <div class="col-md-6 ml-auto mr-auto">
+                  <div class="col-md-6 col-xs-8 ml-auto mr-auto">
                     <img src="assets/img/team/umang.jpg" alt="Thumbnail Image"
                       class="img-raised rounded-circle img-fluid">
                   </div>
@@ -122,7 +122,7 @@
             <div class="col-md-4">
               <div class="team-player">
                 <div class="card card-plain">
-                  <div class="col-md-6 ml-auto mr-auto">
+                  <div class="col-md-6 col-xs-8 ml-auto mr-auto">
                     <img src="assets/img/team/prarthana.jpg" alt="Thumbnail Image"
                       class="img-raised rounded-circle img-fluid">
                   </div>
@@ -137,7 +137,7 @@
             <div class="col-md-4">
               <div class="team-player">
                 <div class="card card-plain">
-                  <div class="col-md-6 ml-auto mr-auto">
+                  <div class="col-md-6 col-xs-8 ml-auto mr-auto">
                     <img src="assets/img/team/yukta.jpg" alt="Thumbnail Image"
                       class="img-raised rounded-circle img-fluid">
                   </div>
@@ -153,7 +153,7 @@
             <div class="col-md-4">
               <div class="team-player">
                 <div class="card card-plain">
-                  <div class="col-md-6 ml-auto mr-auto">
+                  <div class="col-md-6 col-xs-8 ml-auto mr-auto">
                     <img src="assets/img/team/naman.jpg" alt="Thumbnail Image"
                       class="img-raised rounded-circle img-fluid">
                   </div>
