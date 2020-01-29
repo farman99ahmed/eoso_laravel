@@ -30,6 +30,14 @@ Some of Pintu’s beautiful art work is shown below, if you wish to support Pint
 </p>
       </div>
       <div class="tab-content tab-space">
+        <div class="row d-flex justify-content-center">
+          <button onclick="location.href='#'" class="learn-more">
+            <span class="circle">
+              <span class="icon arrow"></span>
+            </span>
+            <span class="button-text">Buy Now</span>
+          </button>
+        </div>
         <div class="tab-pane active text-center gallery">
           <div class="row">
             <div class="col-md-3 ml-auto">
@@ -62,14 +70,6 @@ Some of Pintu’s beautiful art work is shown below, if you wish to support Pint
               <strong>Art# 23</strong><img src="assets/img/shop/pintu (23).JPG" class="img-raised rounded">
             </div>
           </div>
-        </div>
-        <div class="row d-flex justify-content-center">
-          <button onclick="location.href='#'" class="learn-more">
-            <span class="circle">
-              <span class="icon arrow"></span>
-            </span>
-            <span class="button-text">Buy Now</span>
-          </button>
         </div>
       </div>
 

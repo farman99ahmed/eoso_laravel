@@ -14800,7 +14800,7 @@ h2.title {
 .description,
 .card-description,
 .footer-big p {
-  color: #999;
+  color: #555555;
 }
 
 .text-warning {
@@ -16489,7 +16489,7 @@ footer .pull-center {
 .card[class*="bg-"] .stats,
 .card[class*="bg-"] .card-category,
 .card[class*="bg-"] .card-description {
-  color: rgba(255, 255, 255, 0.8);
+  color: #555555;
 }
 
 .card [class*="header-"] .author a:hover,

@@ -37,15 +37,18 @@
               uplifting the children was undertaken by two college students of NMIMS Shirpur Campus, Mr. Suchit Arora
               and Mr. Praneet Singh under the guidance of Mrs Payal Rahul Dande who has always been helping and
               motivating the youth. In the initial days lots of research and surveys were conducted in various schools
-              and ashrams to understand basic requirements needed by the children in a small town of Maharashtra. The
-              first drive was conducted to distribute 400 warm woolen blankets at a school in Shirpur, Maharashtra.
+              and ashrams to understand basic requirements needed by the children in a small town of Maharashtra. 
+            </br></br>
+              The first drive was conducted to distribute 400 warm woolen blankets at a school in Shirpur, Maharashtra.
               This experience was heartfelt by the volunteer with relief and contentment that the winters for the kind
               children wouldn’t be harsh this year, in the next drive 60 sets of Painting & Drawing material along
               with Notebooks and school bags to the Specially abled students at Waghadi Ashram to draw their hearts
               out. As and when we felt the need to provide basic knowledge there were various drives which were held
               such as Cleanliness Drive, Oral Hygiene Drive which helped the children be more aware of their Oral
               Health, to make them aware of the Swine Flu Epidemic, Precautions and Safety measures, Furnace Boiler
-              for availability hot water. As EOSO family expanded various projects such as Paathshala, a student
+              for availability hot water.
+          </br></br>
+              As EOSO family expanded various projects such as Paathshala, a student
               oriented programme which helps the children to widen their horizon and to get to know about the world
               beyond, it also boosts up their courage and motivates them to strive for better. Hence EOSO has been a
               platform for all to make their share of contribution for a better tomorrow.</h5>
@@ -94,9 +97,7 @@
                   </div>
                   <h4 class="card-title">Praneet Singh</h4>
                   <div class="card-body">
-                    <p class="card-description">Social work is a contribution towards the society, one to shout do it
-                      to help strengthen our communities as well as to recognizes the primary importance of human
-                      relationships.</p>
+                    <p class="card-description">Social work is a contribution towards the society, one should do it to help strengthen our communities as well as to recognize the primary importance of human relationships.</p>
                   </div>
                 </div>
               </div>
